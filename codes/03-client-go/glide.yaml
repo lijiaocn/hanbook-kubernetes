@@ -1,0 +1,4 @@
+package: github.com/lijiaocn/handbook-kubernetes/codes/03-client-go/01-first
+import:
+- package: k8s.io/client-go
+  version: ~6.0.0
